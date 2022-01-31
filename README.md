@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=7490ac&height=300&section=header&text=IRUY-J%20&fontSize=90)
 
-<h3 align="center">💻   Tech Stacks  💻 </h3><br>
-<p align="center">I'm learning more technology stacks.</p><br>
+<h3 align="center">💻   Tech Stacks  💻 </h3>
+<p align="center">I'm learning more technology stacks.</p>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
 <br>
  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
@@ -33,13 +33,13 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <br>
-  <img src="https://img.shields.io/badge/Android-#3DDC84?style=flat-square&logo=Android&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Android-#3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 <br>
 <br>
-<h3 align="center">to Me 🙌 </h3><br>
-<p align="center">I'm a developer who likes development and grows.🌱 </p><br>
+<h3 align="center">to Me 🙌 </h3>
+<p align="center">I'm a developer who likes development and grows.🌱 </p>
 <div align="center">
 <a href="jeon1310@gmail.com">
 <a href="https://instagram.com/jn_yuri">
