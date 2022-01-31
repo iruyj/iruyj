@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <br>
-<h3 align="center">to Me 🙌 </h3>
+<h3 align="center">🙌 to Me 🙌 </h3>
 <p align="center">I'm a developer who likes development and grows.🌱 </p>
 <div align="center">
 <a href="jeon1310@gmail.com">
