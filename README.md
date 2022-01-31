@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=749ac&height=300&section=header&text=IRUY-J%20&fontSize=90)-->
 
-![header](https://capsule-render.vercel.app/api?type=shark&color=0:587FB6,50:3F4756,100:A3ABBD&height=300&section=header&text=IRUY-J%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=shark&color=0:587FB6,50:B4D7FF,100:B7D3D0&height=300&section=header&text=IRUY-J%20render&fontSize=90)
 
 <h3 align="center">💻   Tech Stacks  💻 </h3>
 <p align="center">I'm learning more technology stacks.</p>
