@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iruyj)](https://github.com/anuraghazra/github-readme-stats)-->
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=7490ac&height=300&section=header&text=IRUY-J%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=8000ac&height=300&section=header&text=IRUY-J%20&fontSize=90)
 
 <h3 align="center">💻   Tech Stacks  💻 </h3>
 <p align="center">I'm learning more technology stacks.</p>
