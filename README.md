@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:587FB6,100:B7D3D0&height=300&section=header&text=IRUY-J%20&fontSize=90)
 
-<h3 align="center">💻   Tech Stacks  💻 </h3>
+<h2 align="center">💻   Tech Stacks  💻 </h2>
 <p align="center">I'm learning more technology stacks.</p>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -40,8 +40,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <hr>
-<br>
-<h3 align="center">🙌 to Me 🙌 </h3>
+<h2 align="center">🙌 to Me 🙌 </h2>
 <p align="center">I'm a developer who likes development and grows.🌱 </p>
 <div align="center">
 <a href="jeon1310@gmail.com">
