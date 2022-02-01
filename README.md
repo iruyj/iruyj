@@ -38,8 +38,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
-<br>
-<hr>
+<br><br>
 <h2 align="center">🙌 to Me 🙌 </h2>
 <p align="center">I'm a developer who likes development and grows.🌱 </p>
 <div align="center">
