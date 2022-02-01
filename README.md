@@ -39,6 +39,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
 </div>
 <br>
+<hr>
 <br>
 <h3 align="center">🙌 to Me 🙌 </h3>
 <p align="center">I'm a developer who likes development and grows.🌱 </p>
