@@ -50,4 +50,4 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/jeon1310@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
 </div>
  <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iruyj&langs_count=10&layout=compact&theme=dark)](https://github.com/jogilsang/jogilsang)
