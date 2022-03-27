@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iruyj)](https://github.com/anuraghazra/github-readme-stats)
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=749ac&height=300&section=header&text=IRUY-J%20&fontSize=90)-->
+![header](https://capsule-render.vercel.app/api?type=Waving&color=749ac&height=300&section=header&text=J-YURI%20&fontSize=90)-->
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=0:587FB6,100:B7D3D0&height=300&section=header&text=IRUY-J%20&fontSize=90)
 
